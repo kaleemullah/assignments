@@ -19,9 +19,11 @@
 		    
 		    http://testcrawler.herokuapp.com/customers: 15 inputs 
 
-	 - Test Cases can be run via below commands
-			 > ruby test/crawler_test.rb 
-			 > ruby test/web_page_test.rb
+	 - Test Cases: Test cases can be run via below commands
+	 
+		> ruby test/crawler_test.rb
+
+		> ruby test/web_page_test.rb
 
 **Assignment#2:**
 
