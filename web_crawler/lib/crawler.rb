@@ -37,7 +37,7 @@ class Crawler
     crawl
 
     sum.each_pair do |url, count|
-      puts "#{url}: #{count}"
+      puts "#{url}: #{count} inputs"
     end  
   end  
 end
